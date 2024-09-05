@@ -1,1 +1,1 @@
-FROM golang:bullseye
+FROM golang:bullseye@sha256:3753240d5f7e6b07e30ed39f1784978a92dc58060a0463e768bdfd73fd0497a1
